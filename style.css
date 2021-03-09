@@ -1,0 +1,54 @@
+table, tr, td {
+  border: solid #008000;
+}
+td{
+  background-color: #0000ff;
+  color: #ffff00;
+}
+h1{
+  background-color: rgb(255, 192, 203, 0.4);
+  color: #686868;
+}
+h2{
+  background-color: #7FFFd4;
+  color: #686868;
+}
+p{
+  font-family: Garamond , serif;
+  border-style: dotted;
+  border-width: 2px;
+  border-color: #00ffff;
+  margin: 15px 20px 15px 100px;
+  padding: 10px;
+  background-color: #00ced1;
+}
+p:hover{
+  background-color: #ffff;
+}
+#club{
+  background-color: #00ced1;
+}
+body{
+  background-image: url(https://cdn.pixabay.com/photo/2018/03/15/11/42/joystick-3227969_1280.png);
+  background-repeat: no-repeat;
+  background-size: 1060px 700px;
+}
+#menu{
+display:flex;
+justify-content: space-evenly;
+border-style:solid;
+border-color:green ;
+border-width: 4px;
+
+}
+li{
+color:#0000ff;
+background-color:green;
+width:100px;
+}
+th{
+  color:#ffff00;
+}  
+.h1{
+  text-decoration: underline;
+}
